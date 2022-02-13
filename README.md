@@ -1,1 +1,1 @@
-[![gydoma's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gydoma)]
+[![gydoma's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gydoma&layout=compact)]
