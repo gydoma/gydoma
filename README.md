@@ -16,6 +16,15 @@
 
 - ⚡ Fun fact **A legújabb tanulmányok azt mutatják, hogy a kódolói állások mintegy 70%-ának egyáltalán nincs köze a technológiához.**
 
+<h2 align="left"><a href="gist.github.com/gydoma">Gist Oldalam elérhető itt!</a></h2>
+Itt elérhetőek az alábbi kódok
+
+- Javascript Programozási tételelek (8)
+
+- Psuedo Kódban Programozási tételelek (7)
+
+- (Nem Elérhető) Python Programozási tétel [csak az IKT projektmunkán érhető el!](https://chromiumnetwork.com/projektmunka/halado)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/gychrome" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gychrome" height="30" width="40" /></a>
