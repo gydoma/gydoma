@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **A legújabb tanulmányok azt mutatják, hogy a kódolói állások mintegy 70%-ának egyáltalán nincs köze a technológiához.**
 
-<h2 align="left"><a href="gist.github.com/gydoma">Gist Oldalam elérhető itt!</a></h2>
+<h2 align="left"><a href="https://gist.github.com/gydoma">Gist Oldalam elérhető itt!</a></h2>
 Itt elérhetőek az alábbi kódok
 
 - Javascript Programozási tételelek (8)
