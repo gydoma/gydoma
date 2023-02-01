@@ -2,7 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gydoma&label=Profilmegtekint%C3%A9sek&color=0e75b6&style=flat-square" alt="gydoma" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gydoma" alt="gydoma" /></a> </p>
 
 - 🔭 Éppen ezen dolgozom [Projektmunka 2021-23](https://chromium.network/ikt)
 
