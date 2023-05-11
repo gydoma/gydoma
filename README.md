@@ -3,11 +3,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gydoma&label=Profilmegtekint%C3%A9sek&color=0e75b6&style=flat-square" alt="gydoma" /> </p>
 
 
-- 🔭 Éppen ezen dolgozom [Projektmunka 2021-23](https://chromium.network/ikt)
+- 🔭 Éppen ezen dolgozom [Chromium Arcade](#)
 
 - 🌱 Éppen most ezeket tanulom: **JavaScript, C#**
 
-- 👨‍💻 A projektjeim összegezve a portfóliómon megtalálható! [https://chromium.network](https://chromium.network)
+- 👨‍💻 A projektjeim összegezve a portfóliómon megtalálható! [https://gydoma.me](https://gydoma.me)
 
 - 📝 A főoldalamat megtalálhatod ezen a linken [https://chromium.network](https://chromium.network)
 
