@@ -1,13 +1,13 @@
-<h3 align="center">A nevem Gyurkovics Dominik, feltehetőleg nem véletlen találtál meg, itt az összes publikus projektemet láthatod, viszont figyelj oda, mert nem minden projektem szabadon felhasználható!</h3>
+<h3 align="center">A nevem Gyurkovics Dominik, feltehetőleg nem véletlen találtál meg, itt az összes publikus projektemet láthatod!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gydoma&label=Profilmegtekint%C3%A9sek&color=0e75b6&style=flat-square" alt="gydoma" /> </p>
 
 
-- 🔭 Éppen ezen dolgozom [Chromium Arcade](#)
+- 🔭 Éppen ezen dolgozom: -
 
-- 🌱 Éppen most ezeket tanulom: **JavaScript, C#**
+- 🌱 Éppen most ezeket tanulom: **PHP, C#**
 
-- 👨‍💻 A projektjeim összegezve a portfóliómon megtalálható! [https://gydoma.me](https://gydoma.me)
+- 👨‍💻 A projektjeim összegezve a portfóliómon megtalálható! [Nem elérhető!](https://google.com)
 
 - 📝 A főoldalamat megtalálhatod ezen a linken [https://chromium.network](https://chromium.network)
 
@@ -21,8 +21,6 @@ Itt elérhetőek az alábbi kódok
 - Javascript Programozási tételelek (8)
 
 - Psuedo Kódban Programozási tételelek (7)
-
-- (Nem Elérhető) Python Programozási tétel [csak az IKT projektmunkán érhető el!](https://chromiumnetwork.com/projektmunka/halado)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
