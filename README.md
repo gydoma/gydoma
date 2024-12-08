@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gydoma&label=Profilmegtekint%C3%A9sek&color=0e75b6&style=flat-square" alt="gydoma" /> </p>
 
-- 🌱 Éppen most ezeket tanulom: **PHP - Laravel, C#, Next.js**
+- 🌱 Éppen most ezeket tanulom: **PHP - Laravel, C#, Next.js, TypeScript, Godot**
 
 - 📝 A főoldalamat megtalálhatod ezen a linken [https://chromium.network](https://chromium.network)
 
